@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "331563920005",
+    "project_id": "qreklam-fae86",
+    "storage_bucket": "qreklam-fae86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331563920005:android:88b3c74e5c9373d529d7ec",
+        "android_client_info": {
+          "package_name": "com.example.qreklam_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDp0Jy6ikjB3tO9Tpps2D617WA5Ew6FsmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
